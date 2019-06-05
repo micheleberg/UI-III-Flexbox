@@ -199,11 +199,8 @@ header .logo {
 	line-height: 1.4;
 }
 .facts_text ul {
-	list-style-type:square;
-	padding: 20px;
-}
-.facts_text ul li {
-	padding: 7px;
+	list-style:square inside;
+	padding-top: 20px;
 }
 .services-info-img {
 	padding-left: 25px;
